@@ -21,4 +21,3 @@ The real goal for the author (@mud2monarch) is to build skills and knowledge. I 
 3. **Financial concepts:** Will learn about markout, LP profitability, etc.
 
 *These are my independent thoughts and do not necessarily represent the views of my employer.*
-
