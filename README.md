@@ -7,8 +7,8 @@ While compelling, the findings in the article are potentially worst-case in the 
 - Intuitively, because USDC<>ETH is the highest volume trading pool on Uniswap v3, the value of an *automated* market maker is at its lowest. Because the *automated* market maker is less valuable, liquidity providers are less well compensated.
 
 We want to replicate the analysis for another asset market with more favorable characteristics for LPs. We're considering analyzing the PENDLE<>USDC pair in four variations:
-|Pair|Network|Address|f dsf
 
+|Pair|Network|Address|
 |----|-------|-------|
 |PENDLE<>USDC 30 bps|ETH L1|0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb|
 |PENDLE<>USDC 100 bps|ETH L1|0x50fe1432a9127b25d81ba12d739b744f84111134|
