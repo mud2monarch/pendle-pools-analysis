@@ -20,4 +20,6 @@ The real goal for the author (@mud2monarch) is to build skills and knowledge. I 
 2. **Uniswap:** Will likely learn about how to access pool data, the smart contract/event design, etc.
 3. **Financial concepts:** Will learn about markout, LP profitability, etc.
 
+*NOTE: I can't post the CEX data on Github because of licensing restrictions, but if you want to collaborate please DM me on Twitter @mud2monarch"
+
 *These are my independent thoughts and do not necessarily represent the views of my employer.*
