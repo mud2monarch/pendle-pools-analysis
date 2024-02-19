@@ -10,10 +10,10 @@ We want to replicate the analysis for another asset market with more favorable c
 
 |Pair|Network|Address|
 |----|-------|-------|
-|PENDLE<>USDC 30 bps|ETH L1|0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb|
-|PENDLE<>USDC 100 bps|ETH L1|0x50fe1432a9127b25d81ba12d739b744f84111134|
-|PENDLE<>USDC 30 bps|Arbitrum|0xdbaeb7f0dfe3a0aafd798ccecb5b22e708f7852c|
-|PENDLE<>USDC 100 bps|Arbitrum|0xe8629b6a488f366d27dad801d1b5b445199e2ada|
+|PENDLE<>WETH 30 bps|ETH L1|0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb|
+|PENDLE<>WETH 100 bps|ETH L1|0x50fe1432a9127b25d81ba12d739b744f84111134|
+|PENDLE<>WETH 30 bps|Arbitrum|0xdbaeb7f0dfe3a0aafd798ccecb5b22e708f7852c|
+|PENDLE<>WETH 100 bps|Arbitrum|0xe8629b6a488f366d27dad801d1b5b445199e2ada|
 
 The real goal for the author (@mud2monarch) is to build skills and knowledge. I expect to learn more about the following:
 1. **Python:** Will use Polars and Seaborn.
